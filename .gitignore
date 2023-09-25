@@ -1,0 +1,18 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Learning Progress Tracker (Java)/*
+!/Learning Progress Tracker (Java)/task/
+/Learning Progress Tracker (Java)/task/*
+!/Learning Progress Tracker (Java)/task/src
+!/Learning Progress Tracker (Java)/task/test
+!/Learning Progress Tracker (Java)/task/build.gradle
